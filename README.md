@@ -1,5 +1,5 @@
 # Qisa Coffee Official Website
-## Credit goes to https://github.com/albinxshiby for the original template of the code.
+
 
 Fully responsive coffee webpage for the 'Qisa Coffee' business in Sacramento, CA
 
@@ -13,3 +13,5 @@ Fully responsive coffee webpage for the 'Qisa Coffee' business in Sacramento, CA
 
 
 Developed by Abdul Nawab.
+
+Credit goes to https://github.com/albinxshiby for the inspiration of the site
