@@ -9,6 +9,24 @@ html{
 /* Font Sizes & Family */
 /* if we set html's font size 62.5% then 1rem = 10px */
 
+/*
+  NOTES FROM ABDUL:
+  11/4/2024, Changes to code that I made this day
+  - changed the 'swiper' and the home properties to be able to resize properly
+  - got the color of the buttons to the proper color code, burgundy esque color
+  - the size of the home page that I changed it too is 75vh
+  - the units are vertical height
+  - changed the main image to the one that Aziz preferred, check in on this with him
+
+  TODO:
+  - I am thinking of changing the font of the site, not really a fan
+  - take more inspo from the temple website
+  - Sofiya's Idea:
+    for the smaller slidehshow, have it be automatic,
+    (some type of CSS property, figure that shit out)
+
+  */
+
 --body-font: 'Poppins', sans-serif;
 
 --big-font: 4rem;
@@ -26,8 +44,9 @@ html{
 --font-semi-bold: 600;
 
 /* Color Variables */
---primary-color: #C87E4F;
---primary-color-hover: #C2703D;
+/* For Qisa, this will be the color of the 'TukTuk train' */
+--primary-color: #b3002d;
+--primary-color-hover: #131313;
 --text-color: #333;
 --text-color-light: #888682;
 --border-color: #484848;
@@ -306,13 +325,13 @@ img{
 
 /* Home */
 .home{
-  height: 100vh;
+  height: 75vh;
   width: 100%;
   /* background-color: red; */
 }
 .swiper-slide{
   position: relative;
-  height: 100vh;
+  height: 75vh;
   width: 100%;
 }
 .home .swiper-slide::before{
