@@ -1,8 +1,5 @@
-# Qisa Coffee Official Website
-
-
+# 'Qisa Coffee' Official Website
 Fully responsive coffee webpage for the 'Qisa Coffee' business in Sacramento, CA
-
 
 # To Do...
 - Get proper images of drinks.
