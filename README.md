@@ -4,7 +4,7 @@
 Fully responsive coffee webpage for the 'Qisa Coffee' business in Sacramento, CA
 
 
-# TODO
+# To Do...
 - Get proper images of drinks.
 - What is the mission statement of Qisa? Get what Aziz wants on the main page.
 - Trying to mimic Temple's format.
